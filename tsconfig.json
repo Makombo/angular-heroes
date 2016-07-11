@@ -11,8 +11,7 @@
     "sourceMap": true
   },
   "filesGlob": [
-    "client/**/*.ts",
-    "server/**/*.ts",
+    "app/**/*.ts",
     "typings/**/*.d.ts"
   ],
   "exclude": [
