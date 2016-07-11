@@ -1,7 +1,7 @@
 {
   "name": "angular-heroes",
   "version": "0.0.1",
-  "description": "Angular Heroes package.json from the documentation",
+  "description": "Angular Heroes package.json",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
     "lite": "lite-server",
