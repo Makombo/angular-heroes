@@ -21,6 +21,6 @@ import { ROUTER_DIRECTIVES } from '@angular/router';
 
 export class AppComponent {
 
-  title = 'Tour of Heroes';
+  title = 'Tour of the Heroes';
 
 }
