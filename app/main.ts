@@ -1,5 +1,5 @@
 //the heroes app
-//the heroes app starts here
+//app starts over here
 
 import { bootstrap }    from '@angular/platform-browser-dynamic';
 
